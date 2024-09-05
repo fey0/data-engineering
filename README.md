@@ -1,4 +1,4 @@
-# Hive vs. Spark Speed Comparison Project
+# Comparative Analysis: Hive vs. Spark Project
 
 ## Overview
 Led a comprehensive analysis to compare the performance of Apache Hive and Apache Spark within the Hadoop ecosystem, focusing on processing and querying large datasets. The project aimed to determine the most efficient technology for a small to mid-cap e-commerce business, considering the current infrastructure and dataset size.
