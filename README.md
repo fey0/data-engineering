@@ -14,14 +14,17 @@ Led a comprehensive analysis to compare the performance of Apache Hive and Apach
 - **Training Duration:** 5 weeks
 
 ## Technologies Used
-- **Google Cloud Platform (GCP):** Managed infrastructure and data storage.
-- **Apache Hive (Hive2, Hive Metastore):** Schema creation and query execution.
+
+- **Google Cloud Platform (GCP):** Managed cloud infrastructure and data storage for large-scale datasets.
+- **Linux (Debian-based):** Managed cluster environments and data processing in a Linux-based Google Cloud setup.
+- **Apache Hive (Hive2, Hive Metastore):** Schema creation and execution of queries for data processing.
 - **Apache Spark:** In-memory data processing for high-speed querying.
-- **Hadoop Distributed File System (HDFS):** Distributed data storage.
-- **YARN:** Resource management for cluster operations.
-- **HQL (Hive Query Language):** Query language for Hive.
-- **OpenRefine:** Data cleaning and transformation.
-- **Excel:** Data preprocessing and manual adjustments.
+- **Hadoop Distributed File System (HDFS):** Distributed storage for handling large datasets.
+- **YARN:** Resource management and job scheduling for efficient cluster operations.
+- **HQL (Hive Query Language):** Utilized for querying and managing data in Hive.
+- **OpenRefine:** Performed data cleaning and transformation for accurate analysis.
+- **Excel:** Data preprocessing and manual adjustments for additional preparation.
+
 
 ## Key Steps
 
